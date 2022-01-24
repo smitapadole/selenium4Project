@@ -1,0 +1,10 @@
+Github remote repository: https://github.com/smitapadole/selenium4Project.git
+
+commands for local git repository:
+l: git init   -creates new empty local repository
+2: git remote add origin "https://github.com/smitapadole/selenium4Project.git"
+ -Associate/establish connection  local and remote repository. This command needs to run first time only.
+3. git status
+4. git add
+5. git commit
+6. git push

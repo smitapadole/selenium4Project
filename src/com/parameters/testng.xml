@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Parameter testing">
+<test name="ParametersTest">
+<parameter name="browser" value="FireFox"></parameter>
+<parameter name="url" value="https://login.yahoo.com/"></parameter>
+<parameter name="loginid" value="smitavasipalli"></parameter>
+<classes>
+<class name="com.parameters.ParameterTest"></class>
+
+</classes>
+</test>
+</suite>
